@@ -1,0 +1,1 @@
+{"uuid":"f5bb59ae-5fd1-4ed3-911d-653d05ce5b65","name":"qaautomation.july2022.BaseAPITestKolak.login","description":"","start":1660224256729,"stop":1660224269988,"children":["a1f57d02-c5ec-4a44-94b6-d748f09e2b56"],"befores":[{"name":"login","status":"passed","stage":"finished","description":"","start":1660224256730,"stop":1660224269985}]}
