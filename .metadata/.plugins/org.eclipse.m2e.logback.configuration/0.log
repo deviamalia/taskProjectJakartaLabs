@@ -22,3 +22,7 @@
 2022-08-15 16:12:34,704 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-15 16:12:34,704 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tabsquaredevice/eclipse-workspace/HelloWorldJuly2022/src/july2022/src/test/resources
 2022-08-23 20:18:05,949 [Worker-6: Deferred Early Start] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {s}->https://www.eclipse.org:443
+2022-08-23 21:06:45,877 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-23 21:06:45,885 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tabsquaredevice/eclipse-workspace/HelloWorldJuly2022/src/july2022/src/main/resources
+2022-08-23 21:06:45,889 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-23 21:06:45,889 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tabsquaredevice/eclipse-workspace/HelloWorldJuly2022/src/july2022/src/test/resources
